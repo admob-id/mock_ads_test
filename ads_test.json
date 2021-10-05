@@ -1,0 +1,26 @@
+{
+  "adsmodel": [
+    {
+      "priority": "FACEBOOK",
+      "inter": "YOUR_PLACEMENT_ID",
+      "banner": "YOUR_PLACEMENT_ID",
+      "native": "YOUR_PLACEMENT_ID",
+ "rewared":"YOUR_PLACEMENT_ID",
+      "isShowAds": true,
+"timeShowAds":10
+    },
+    {
+      "priority": "GOOGLE",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/1044960115",
+	"rewared":"ca-app-pub-3940256099942544/5224354917",	
+      "isShowAds": true,
+"timeShowAds":10
+    }
+  ],
+  "priorities": [
+   "GOOGLE",
+   "FACEBOOK"
+  ]
+}
