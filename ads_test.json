@@ -21,5 +21,19 @@
   "priorities": [
    "GOOGLE",
    "FACEBOOK"
+  ],
+  "product":[
+    {
+      "title":"title1",
+      "productId":"pqoduct_id1"
+    },
+    {
+      "title":"title2",
+      "productId":"pqoduct_id2"
+    },
+    {
+      "title":"title3",
+      "productId":"pqoduct_id3"
+    }
   ]
 }
